@@ -7,3 +7,5 @@ conda env create -f environment.yml
 You can then activate the environment using :
 
 conda activate nlp_basics
+
+or select the environment as your kernel in VSCode.
