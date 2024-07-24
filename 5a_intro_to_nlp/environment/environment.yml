@@ -5,7 +5,7 @@ dependencies:
   - python=3.11.4
   - ipykernel
   - pip:
-    wordcloud==1.9.3
-    scikit-learn==1.4.2
-    pandas==2.2.2
+    - wordcloud==1.9.3
+    - scikit-learn==1.4.2
+    - pandas==2.2.2
 prefix: C:\Users\dan\anaconda3\envs\nlp_basics
